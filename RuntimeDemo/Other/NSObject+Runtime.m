@@ -2,8 +2,8 @@
 //  NSObject+Runtime.m
 //  RuntimeDemo
 //
-//  Created by lisong on 2017/5/25.
-//  Copyright © 2017年 lisong. All rights reserved.
+//  Created by rongyun on 2017/7/5.
+//  Copyright © 2017年 YXGang. All rights reserved.
 //
 
 #import "NSObject+Runtime.h"

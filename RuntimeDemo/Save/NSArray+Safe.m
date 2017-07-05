@@ -1,9 +1,9 @@
 //
 //  NSArray+Safe.m
-//  lisong
+//  RuntimeDemo
 //
-//  Created by lisong on 2017/4/1.
-//  Copyright © 2017年 lisong. All rights reserved.
+//  Created by rongyun on 2017/7/5.
+//  Copyright © 2017年 YXGang. All rights reserved.
 //
 
 #import "NSArray+Safe.h"
